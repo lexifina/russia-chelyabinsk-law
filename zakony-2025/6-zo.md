@@ -1,0 +1,8 @@
+# О внесении изменений в некоторые законы Челябинской области
+Document type: Закон
+Number: 6-ЗО
+Date signed: 2025-03-03
+Publication date: 2025-03-03
+Publication number: 7400202503030002
+Signing body: Челябинская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/7400202503030002
