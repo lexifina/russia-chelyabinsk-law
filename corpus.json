@@ -1,0 +1,17 @@
+{
+ "corpus": "ru/chelyabinsk/acts",
+ "path": "russia/chelyabinsk/acts",
+ "scope": "selected-acts",
+ "acts": 12,
+ "future_branch": "future",
+ "publisher": "Официальный интернет-портал правовой информации (publication.pravo.gov.ru)",
+ "name": "Chelyabinsk Oblast",
+ "language": "ru",
+ "coverage": "12 acts of Chelyabinsk Oblast with every dated version the source gives (400 versions), in force from 2015-04-14 to 2026-10-30",
+ "history": "in-force",
+ "history_from": "2015-04-14",
+ "record_to": "2026-10-30",
+ "checked_on": "2026-11-24",
+ "record_note": "Texts from Официальный интернет-портал правовой информации (publication.pravo.gov.ru).",
+ "in_force_trailer": "In-force"
+}

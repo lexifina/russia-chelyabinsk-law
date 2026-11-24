@@ -1,11 +1,11 @@
 {
-  "path": "ru-che",
-  "code": "RU-CHE",
-  "name": "Chelyabinsk Oblast",
-  "level": "region",
-  "parent": "ru",
-  "repo": "https://github.com/lexifina/russia-chelyabinsk-law",
-  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
-  "language": "ru",
-  "sources": 1
+ "path": "russia/chelyabinsk",
+ "code": "RU-CHE",
+ "name": "Chelyabinsk Oblast",
+ "level": "region",
+ "parent": "russia",
+ "repo": "https://github.com/lexifina/russia-chelyabinsk-law",
+ "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+ "language": "ru",
+ "sources": 1
 }
