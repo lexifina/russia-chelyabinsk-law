@@ -1,0 +1,138 @@
+{
+ "generated": "2026-11-24T13:24:57Z",
+ "latest": {
+  "pravo-chelyabinsk|russia/chelyabinsk/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 2339,
+    "current": 2311,
+    "gone": 0,
+    "held": 2311,
+    "newest_in_repo": "2026-10-30",
+    "pending": 28,
+    "repo": 2311,
+    "source_in_scope": 2339
+   },
+   "check_id": "ru-pravo-chelyabinsk-20261124T131026Z",
+   "commits": {
+    "count": 6,
+    "from": "bf738a46433f6c5d00936f88d4ab2d84a8ffaebe",
+    "to": "551d07a3ec19e56c0584c3c9b10f9eb02003a8a9"
+   },
+   "corpus": "russia/chelyabinsk/acts",
+   "error": null,
+   "finished": "2026-11-24T13:24:56Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region74: 2339 law-type documents listed (every page read); 2311 held here; 28 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "7400202611030004",
+     "7400202611030005",
+     "7400202611030006",
+     "7400202611030007",
+     "7400202611030008",
+     "7400202611030009",
+     "7400202611030010",
+     "7400202611030011",
+     "7400202611030013",
+     "7400202611030014",
+     "7400202611060002",
+     "7400202611060003",
+     "7400202611060006",
+     "7400202611060007",
+     "7400202611060008",
+     "7400202611060009",
+     "7400202611060010",
+     "7400202611060011",
+     "7400202611060012",
+     "7400202611130005",
+     "7400202611170001",
+     "7400202611170002",
+     "7400202611170003",
+     "7400202611170004",
+     "7400202611180001",
+     "7400202611180002",
+     "7400202611180003",
+     "7400202611180004"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 20,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "7400202611030004",
+     "7400202611030005",
+     "7400202611030006",
+     "7400202611030007",
+     "7400202611030008",
+     "7400202611030009",
+     "7400202611030010",
+     "7400202611030011",
+     "7400202611030013",
+     "7400202611030014",
+     "7400202611060002",
+     "7400202611060003",
+     "7400202611060006",
+     "7400202611060007",
+     "7400202611060008",
+     "7400202611060009",
+     "7400202611060010",
+     "7400202611060011",
+     "7400202611060012",
+     "7400202611130005",
+     "7400202611170001",
+     "7400202611170002",
+     "7400202611170003",
+     "7400202611170004",
+     "7400202611180001",
+     "7400202611180002",
+     "7400202611180003",
+     "7400202611180004"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2339 law-type documents in block region74; newest published 2026-11-18",
+   "source": "pravo-chelyabinsk",
+   "started": "2026-11-24T13:10:26Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 5,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 400,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
