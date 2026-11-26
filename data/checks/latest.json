@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:58:31Z",
+ "generated": "2026-11-26T06:15:27Z",
  "latest": {
   "pravo-chelyabinsk|russia/chelyabinsk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 2339,
     "source_in_scope": 2339
    },
-   "check_id": "ru-pravo-chelyabinsk-20261125T052106Z",
+   "check_id": "ru-pravo-chelyabinsk-20261126T052132Z",
    "commits": null,
    "corpus": "russia/chelyabinsk/acts",
    "error": null,
-   "finished": "2026-11-25T05:21:57Z",
+   "finished": "2026-11-26T05:22:24Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region74: 2339 law-type documents listed (every page read); 2339 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "2339 law-type documents in block region74; newest published 2026-11-18",
    "source": "pravo-chelyabinsk",
-   "started": "2026-11-25T05:21:06Z",
+   "started": "2026-11-26T05:21:32Z",
    "unexplained": 0,
    "update": {
     "parts": []
