@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Chelyabinsk Oblast: Official Internet Portal of Legal Information (region74) · `russia/chelyabinsk/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:22 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 05:18 UTC**.
 - Acts held here: 2 339; current at the source: 2 339; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
