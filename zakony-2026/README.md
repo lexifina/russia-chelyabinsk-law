@@ -1,6 +1,6 @@
 # Chelyabinsk Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 28 versions, from 2026-01-29 (latest in force: 2026-11-18) · <http://publication.pravo.gov.ru/documents/block/region74>
+Законы 2026 · 29 versions, from 2026-01-29 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region74>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -57,6 +57,8 @@
 | Закон № 144-ЗО | [144-zo.md](144-zo.md) | 1 | 2026-11-18 |
 | Закон № 145-ЗО | [145-zo.md](145-zo.md) | 1 | 2026-11-18 |
 | Закон № 146-ЗО | [146-zo.md](146-zo.md) | 1 | 2026-11-18 |
+| Закон № 147-ЗО | [147-zo.md](147-zo.md) | 1 | 2026-11-27 |
+| Закон № 148-ЗО | [148-zo.md](148-zo.md) | 1 | 2026-11-27 |
 | Закон № 15-ЗО | [15-zo.md](15-zo.md) | 1 | 2026-03-03 |
 | Закон № 16-ЗО | [16-zo.md](16-zo.md) | 1 | 2026-03-03 |
 | Закон № 17-ЗО | [17-zo.md](17-zo.md) | 1 | 2026-03-03 |
